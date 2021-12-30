@@ -1,4 +1,15 @@
 # Mengaktifkan-GPRS-Sim800L-Indonesia
+support sim800l V1 dan sim800l V2
+pemasangan sim harus seperti berikut:
+
+![image](https://user-images.githubusercontent.com/83158809/147747798-1d0c9b90-28c2-4ad1-b836-2ac97f0a1b0e.png)
+
+skema pengkabelan (gunakan sumber tegangan eksternal baterai dan kapasitor tambahan)
+
+![image](https://user-images.githubusercontent.com/83158809/147747862-718e2ea2-6c40-4813-b76f-28f66ae979a2.png)
+![image](https://user-images.githubusercontent.com/83158809/147748048-f9d19a72-1cb8-4b6e-9243-14da14aedf53.png)
+![image](https://user-images.githubusercontent.com/83158809/147748088-9ce74c4b-4f6c-4cb3-be08-165b85b57256.png)
+
 
 gunakan AT Command pada Serial Monitor arduino IDE:
 
