@@ -29,3 +29,15 @@ AT+HTTPTERM
 AT+SAPBR=0,1
 
 NB: Tidak support HTTPS.. gunakan protokol HTTP saja. tested on kartu tri (3)
+==============================================================================================
+AT
+AT+CPIN?
+AT+CREG?
+AT+COPS?
+AT+CSQ
+AT+CMGF=1
+AT+CMGS=”phone number”
+AT+SAPBR=3,1,"Contype","GPRS" 
+AT+CSTT="3gprs","3gprs","3gprs"
+AT+SAPBR=1,1 
+AT+SAPBR=2,1
