@@ -44,6 +44,10 @@ AT+SAPBR=2,1
 
 info tambahan di Blog
 ![image](https://github.com/ibrohim300/Mengaktifkan-GPRS-Sim800L-Indonesia/blob/48edb3b7e818722454bb8e6248cbca7a4a345dc6/IMG_20230728_093435.jpg)
+![image](https://github.com/ibrohim300/Mengaktifkan-GPRS-Sim800L-Indonesia/blob/ffd35b3190453a71993b10c000e151fb18020f59/DrawNote_20230728110647185.jpg)
+![image](https://github.com/ibrohim300/Mengaktifkan-GPRS-Sim800L-Indonesia/blob/ffd35b3190453a71993b10c000e151fb18020f59/DrawNote_20230728103226199.jpg)
+![image](https://github.com/ibrohim300/Mengaktifkan-GPRS-Sim800L-Indonesia/blob/ffd35b3190453a71993b10c000e151fb18020f59/DrawNote_20230728103240181.jpg)
+
 AT
 
 AT+CPIN
