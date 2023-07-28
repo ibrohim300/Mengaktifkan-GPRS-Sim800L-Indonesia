@@ -41,3 +41,15 @@ AT+SAPBR=3,1,"Contype","GPRS"
 AT+CSTT="3gprs","3gprs","3gprs"
 AT+SAPBR=1,1 
 AT+SAPBR=2,1
+
+info tambahan di Blog
+AT
+AT+CPIN
+AT+CSQ
+AT+COPS?
+AT+CBC
+AT+IPR?
+AT+IPR=9600
+AT+GSV
+AT+CGSN
+AT+SIMEI=No Emai Aktif
