@@ -43,14 +43,23 @@ AT+SAPBR=1,1
 AT+SAPBR=2,1
 
 info tambahan di Blog
-
+![image](https://github.com/ibrohim300/Mengaktifkan-GPRS-Sim800L-Indonesia/blob/48edb3b7e818722454bb8e6248cbca7a4a345dc6/IMG_20230728_093435.jpg)
 AT
+
 AT+CPIN
+
 AT+CSQ
+
 AT+COPS?
+
 AT+CBC
+
 AT+IPR?
+
 AT+IPR=9600
+
 AT+GSV
+
 AT+CGSN
+
 AT+SIMEI=No Emai Aktif
